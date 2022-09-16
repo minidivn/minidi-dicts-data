@@ -12,10 +12,14 @@
       "text": ["Chào hỏi"]
     }
   },
+  "similarWords" : ["salute"],
   "wordClass" : ["verb"],
+  "categories": ["verb", "salute"],
   "categories-vi": ["động từ", "xã giao"],
   "examples": {
-    "Hello world!": "Xin chào thế giới!"
+    "Hello world!": {
+      "text": "Xin chào thế giới!"
+    }
   },
   "author": "minidi"
 }
