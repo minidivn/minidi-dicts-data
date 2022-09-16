@@ -1,0 +1,17 @@
+{
+  "word": "hello",
+  "meaning": {
+    "main": {
+      "key-vi": "Nghĩa phổ biến",
+      "text": ["Chào"],
+    "verb": {
+      "key-vi": "động từ",
+      "text": ["Chào hỏi"]
+    }
+  },
+  "wordClass" : ["verb"],
+  "categories-vi": ["động từ", "xã giao"],
+  "examples": {
+    "Hello world!": "Xin chào thế giới!"
+  }
+}
