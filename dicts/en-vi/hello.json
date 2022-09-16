@@ -1,9 +1,12 @@
 {
   "word": "hello",
+  "fromLanguage" :"en",
+  "toLanguage": "vi",
   "meaning": {
     "main": {
       "key-vi": "Nghĩa phổ biến",
-      "text": ["Chào"],
+      "text": ["Chào"]
+    },
     "verb": {
       "key-vi": "động từ",
       "text": ["Chào hỏi"]
@@ -13,5 +16,6 @@
   "categories-vi": ["động từ", "xã giao"],
   "examples": {
     "Hello world!": "Xin chào thế giới!"
-  }
+  },
+  "author": "minidi"
 }
